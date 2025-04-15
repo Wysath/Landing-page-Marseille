@@ -1,0 +1,32 @@
+@font-face {
+  font-family: 'Caldina';
+  src:
+    url('../fonts/Caldina-Regular.woff2') format('woff2'),
+    url('../fonts/Caldina-Regular.woff') format('woff'),
+    url('../fonts/Caldina-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Caldina';
+  src:
+    url('../fonts/Caldina-Medium.woff2') format('woff2'),
+    url('../fonts/Caldina-Medium.woff') format('woff'),
+    url('../fonts/Caldina-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Caldina';
+  src:
+    url('../fonts/Caldina-Bold.woff2') format('woff2'),
+    url('../fonts/Caldina-Bold.woff') format('woff'),
+    url('../fonts/Caldina-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
